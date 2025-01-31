@@ -1,7 +1,7 @@
 # FinancialInfo
 
 ## Description
-Service which provide REST API and Websocket endpoits for live financial instruments. Data is taken from Tiingo. Server could handle > 1000 simultaneous websocket clients. 
+ASP.NET Core service which provide REST API and Websocket endpoits for live financial instruments. Data is taken from Tiingo. Server could handle > 1000 simultaneous websocket clients. 
 
 ## Quickstart
 1. Clone code.
